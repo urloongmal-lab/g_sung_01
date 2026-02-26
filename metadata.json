@@ -1,0 +1,7 @@
+{
+  "name": "Curiostar Cluster",
+  "description": "A 3D knowledge archiving platform where questions become stars in an interactive universe, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
